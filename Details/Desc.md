@@ -1,13 +1,13 @@
 # All Features List
 &nbsp;
 &nbsp;
-**=> Added MagicX Toolbox**
-**=> Pre-Activated with Digital License**
-**=> Enabled Ultimate Power Plan [Set it for MAX Performance] [See Screenshot](https://github.com/Ahsan400/MagicX_Mod_Files/raw/master/Details/Pictures/Power.png)**
-**=> CMD and PowerShell UI Tweaked [see Screenshot](https://github.com/Ahsan400/MagicX_Mod_Files/blob/master/Details/CMD-PW.md)**
-**=> Optimized and Cleaned Context Menu**
-**=> Disabled Promote for Admin Privileges**
-**=> Cortana, EDGE, Internet Explorer Disabled**
+**=> Added MagicX Toolbox**\
+**=> Pre-Activated with Digital License**\
+**=> Enabled Ultimate Power Plan [Set it for MAX Performance] [(See Screenshot)](https://github.com/Ahsan400/MagicX_Mod_Files/raw/master/Details/Pictures/Power.png)**\
+**=> CMD and PowerShell UI Tweaked [(see Screenshot)](https://github.com/Ahsan400/MagicX_Mod_Files/blob/master/Details/CMD-PW.md)**\
+**=> Optimized and Cleaned Context Menu**\
+**=> Disabled Promote for Admin Privileges**\
+**=> Cortana, EDGE, Internet Explorer Disabled**\
 
 
 &nbsp;
@@ -25,7 +25,7 @@
 &nbsp;
 &nbsp;
 
-## MagicX Toolbox Features (v1.0)[]Screenshot](https://github.com/Ahsan400/MagicX_Mod_Files/blob/master/Details/Toolbox.md)
+## MagicX Toolbox Features (v1.0)[(Screenshot)](https://github.com/Ahsan400/MagicX_Mod_Files/blob/master/Details/Toolbox.md)
 	* Option for "After Update Tweaks" to apply after updating windows
 	* Option To Control UI Changes
 	* Option To Control Context Menu
@@ -40,7 +40,7 @@
 &nbsp;
 &nbsp;
 	
-## Context Menu Tweaks [Screenshot](https://github.com/Ahsan400/MagicX_Mod_Files/blob/master/Details/Windows-19H2.md)
+## Context Menu Tweaks [(Screenshot)](https://github.com/Ahsan400/MagicX_Mod_Files/blob/master/Details/Windows-19H2.md)
 	* Removed Scan with Windows Defender
 	* Removed Compability Troubleshooting
 	* Removed Restore Previous Season
