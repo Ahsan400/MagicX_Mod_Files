@@ -1,6 +1,6 @@
 # All Features List
 &nbsp;
-&nbsp;
+&nbsp;\
 **=> Added MagicX Toolbox**\
 **=> Pre-Activated with Digital License**\
 **=> Enabled Ultimate Power Plan [Set it for MAX Performance] [(See Screenshot)](https://github.com/Ahsan400/MagicX_Mod_Files/raw/master/Details/Pictures/Power.png)**\
