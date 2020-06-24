@@ -1,6 +1,6 @@
 @ECHO OFF
 SET "DL_REPO=https://github.com/Ahsan400/MagicX_Mod_Files/raw/master/Windows_10"
-SET "OPT_AMOUNT=18"
+SET "OPT_AMOUNT=17"
 SET "INP_MSG= --> Choose Apps to Download: "
 SET "CNTXT_OPT1=Adguard Premium v7.4.3247.0"
 SET "CNTXT_OPT2=AIMP Audio Player v4.60.2180"
@@ -19,7 +19,6 @@ SET "CNTXT_OPT14=uTorrent Pack v1.2.3.36"
 SET "CNTXT_OPT15=qBitTorrent v4.2.5"
 SET "CNTXT_OPT16=qBitTorrent Themes"
 SET "CNTXT_OPT17=TeamViewer v15.6.7.0"
-SET "CNTXT_OPT18=All Apps"
 
 SET "OPT_ADRS1=Download_Start_Apps_zip"
 SET "OPT_ADRS2=Download_Start_Apps_exe"
@@ -38,5 +37,4 @@ SET "OPT_ADRS14=Download_Start_Apps_zip"
 SET "OPT_ADRS15=Download_Start_Apps_exe"
 SET "OPT_ADRS16=Download_Start_Mods"
 SET "OPT_ADRS17=Download_Start_Apps_exe"
-SET "OPT_ADRS18=all_apps"
 
