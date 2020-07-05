@@ -19,7 +19,7 @@ SET "CNTXT_OPT15=qBittorrent v4.2.5"
 SET "CNTXT_OPT16=qBittorrent Themes"
 SET "CNTXT_OPT17=TeamViewer v15.7.6.0"
 SET "CNTXT_OPT18=GOM Player Plus V2.3.54.5318"
-SET "CNTXT_OPT19=IObit Uninstaller v9.6.0.1"
+SET "CNTXT_OPT19=IObit Uninstaller v9.6.0.2"
 
 SET "OPT_ADRS1=Download_Start_Apps_zip"
 SET "OPT_ADRS2=Download_Start_Apps_exe"
