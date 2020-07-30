@@ -1,8 +1,3 @@
-# Reason for not Removing These Apps & Way to Remove
-
-&nbsp;
-&nbsp;
-
 ## Microsoft Store
 Since I removed all installed apps there are a possibility that you might use apps that I removed. With ms store you can easily install it again. If you really don't like MS Store that you can Uninstall it from any app uninstaller. Though I recommend you to use Iobit Uninstaller that has been added to **MagicX Toolbox > Download Center**.
 
