@@ -10,7 +10,7 @@
 
 # Context Menu
 ![Toolbox](https://github.com/Ahsan400/MagicX_Mod_Files/raw/master/Details/20H1/Pictures/Toolbox-2.png?raw=true "Toolbox-2")
-![Toolbox](https://github.com/Ahsan400/MagicX_Mod_Files/raw/master/Details/20H1/Pictures/Toolbox-3.png?raw=true "Toolbox-3")![Toolbox](https://github.com/Ahsan400/MagicX_Mod_Files/raw/master/Details/20H1/Pictures/Toolbox-3.png?raw=true "Toolbox-3")
+![Toolbox](https://github.com/Ahsan400/MagicX_Mod_Files/raw/master/Details/20H1/Pictures/Toolbox-3.png?raw=true "Toolbox-3")
 
 
 
