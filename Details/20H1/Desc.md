@@ -62,7 +62,7 @@
 	* Removed Network From Windows Explorer Sidetab
 	* Added Secure Clean In Recycle Bin (deleted files can't be recovered)
 	* Added Secure Delete In Context Menu (deleted files can't be recovered)
-	**Note: All the above options can be re-added or removed from Toolbox**
+	Note: All the above options can be re-added or removed from Toolbox
 
 	* Added Open Advanced Cmd Here (shift)
 	* Added Open Advanced Powershell Here (shift)
@@ -171,7 +171,6 @@
 ## System & Privacy Tweaks
 	* Added Additional Windows Search Tweaks
 	* Added Edge Patches
-	* Added Location Tweaks
 	* Added Location Tweaks
 	* Added Notepad Tweaks
 	* Added OneDrive Tweaks
@@ -353,7 +352,7 @@
 	* Your Phone App
 
 
-	* **Maybe There Were more but I Lost Track of them**
+	* Maybe There Were more but I Lost Track of them
 
 &nbsp;
 &nbsp;
