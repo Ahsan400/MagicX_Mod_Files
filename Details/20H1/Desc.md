@@ -14,6 +14,10 @@
 **--> Removed All Garbage**
 
 
+<br>
+<center><h1><font color="red"> Detailed Info</font></h1></center>
+<br>
+
 &nbsp;
 &nbsp;
 &nbsp;
