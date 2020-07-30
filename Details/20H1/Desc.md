@@ -47,7 +47,7 @@
 &nbsp;
 &nbsp;
 	
-## Context Menu Tweaks [(Screenshot)](https://github.com/Ahsan400/MagicX_Mod_Files/blob/master/Details/Windows-19H2.md)
+## Context Menu Tweaks
 	* Removed Scan With Windows Defender
 	* Removed Compability Troubleshooting
 	* Removed Restore Previous Season
