@@ -6,10 +6,11 @@
 **--> CMD and PowerShell UI Tweaked [(see Screenshot)](https://github.com/Ahsan400/MagicX_Mod_Files/blob/master/Details/CMD-PW.md)**\
 **--> Optimized and Cleaned Context Menu**\
 **--> Added MagicX Toolbox**\
-**--> Added Lots of new options in Context Menu**\
+**--> Added Lots of New Options in Context Menu**\
 **--> Added lots of System & Privacy Tweaks**\
+**--> Pre-installed Some Useful Apps**\
 **--> Disabled Promote for Admin Privileges**\
-**--> Disabled all unnecessary services**\
+**--> Disabled All Unnecessary Services**\
 **--> Removed All Garbage**
 
 
