@@ -35,7 +35,7 @@ Windows Update is really necessary feature. No program comes without bug and flo
 &nbsp;
 
 >**I hope I made everything clear. Still if you have any question ask me on**\
->**Telegram:** [https:\\t.me\Ahsan400](https:\\t.me\Ahsan400)\
->**Telegram Group:** [https:\\t.me\MagicXMod](https:\\t.me\MagicXMod)\
+>**Telegram:** [https://t.me/Ahsan400](https://t.me/Ahsan400)\
+>**Telegram Group:** [https://t.me/MagicXMod](https://t.me/MagicXMod)\
 >**Facebook:** [https://fb.me/Ahsan400](https://fb.me/Ahsan400)\
 >**Email:** [help.ahsan@gmail.com](mailto:help.ahsan@gmail.com)
