@@ -5,6 +5,7 @@
 **--> Enabled Ultimate Power Plan [Set it for MAX Performance] [(See Screenshot)](https://github.com/Ahsan400/MagicX_Mod_Files/raw/master/Details/Pictures/Power.png)**\
 **--> CMD and PowerShell UI Tweaked [(see Screenshot)](https://github.com/Ahsan400/MagicX_Mod_Files/blob/master/Details/CMD-PW.md)**\
 **--> Optimized and Cleaned Context Menu**\
+**--> Added One Click Boost**\
 **--> Added MagicX Toolbox**\
 **--> Added Lots of New Options in Context Menu**\
 **--> Added lots of System & Privacy Tweaks**\
