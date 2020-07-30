@@ -358,6 +358,8 @@
 
 	* Maybe There Were more but I Lost Track of them
 
+	Note: All The Above Apps & Features Can Be Re-install
+
 &nbsp;
 &nbsp;
 &nbsp;
