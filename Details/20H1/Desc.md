@@ -10,7 +10,7 @@
 **--> Added lots of System & Privacy Tweaks**\
 **--> Disabled Promote for Admin Privileges**\
 **--> Disabled all unnecessary services**\
-**--> Removed All Garbage**\
+**--> Removed All Garbage**
 
 
 &nbsp;
@@ -57,27 +57,27 @@
 	* Removed Cast To Device
 	* Removed Include In Library From Context Menu
 	* Removed Unnecessary File Type From New Context Menu
-	* Removed Library From Windows Explorer Sidetab
-	* Removed Family Group From Windows Explorer Sidetab
-	* Removed Network From Windows Explorer Sidetab
+	* Removed Library From Windows Explorer Side-tab
+	* Removed Family Group From Windows Explorer Side-tab
+	* Removed Network From Windows Explorer Side-tab
 	* Added Secure Clean In Recycle Bin (deleted files can't be recovered)
 	* Added Secure Delete In Context Menu (deleted files can't be recovered)
 	Note: All the above options can be re-added or removed from Toolbox
 
-	* Added Open Advanced Cmd Here (shift)
-	* Added Open Advanced Powershell Here (shift)
+	* Added Open Advanced CMD Here (shift)
+	* Added Open Advanced PowerShell Here (shift)
 	* Added Advanced Personalize Settings
-	* Added "kill Not Responding Tasks" In Tools
-	* Added "delete Temp Files" In Tools
-	* Added "restart Windows Explorer" In Tools
+	* Added "Kill Not Responding Tasks" In Tools
+	* Added "Delete Temp Files" In Tools
+	* Added "Restart Windows Explorer" In Tools
 	* Added "Clean Ram Memory" In Tools
 	* Added "Clear Clipboard" In Tools
 	* Added "Edit HOSTS File" In Tools
 	* Added "Empty Recycle Bin" In Tools
 	* Added "Show Hide Hidden Items" In Tools
 	* Added "Show Hide Super Hidden Items" In Tools
-	* Added "show/hide File Extension" In Tools
-	* Added "computer Management" In System Tools
+	* Added "Show/hide File Extension" In Tools
+	* Added "Computer Management" In System Tools
 	* Added "Task Manager" In System Tools
 	* Added "Local Group Policy Editor" In System Tools
 	* Added "Registry Editor" In System Tools
@@ -85,37 +85,37 @@
 	* Added "Programs & Features" In System Tools
 	* Added "Registry Editor" In System Tools
 	* Added "msconfig" In System Tools
-	* Added "Device Mnager" In System Tools
+	* Added "Device Manager" In System Tools
 	* Added "Services" In System Tools
 	* Added "Control Panel" In System Tools
-	* Added "Administrative Tools" To Right Click On This Pc
-	* Added "Control Panel" To Right Click On This Pc
-	* Added "Device Manager" To Right Click On This Pc
-	* Added "Disk Management" To Right Click On This Pc
-	* Added "Local Group Policy Editor" To Right Click On This Pc
-	* Added "Programs & Features" To Right Click On This Pc
-	* Added "Registry Editor" To Right Click On This Pc
-	* Added "Services" To Right Click On This Pc
-	* Added "Safe Mode Menu" To Right Click On This Pc
-	* Added "Tools Menu" To Right Click On This Pc
-	* Added "System Tools Menu" To Right Click On This Pc
-	* Added "Turn Off Options" To Right Click On This Pc
+	* Added "Administrative Tools" To Right Click On This PC
+	* Added "Control Panel" To Right Click On This PC
+	* Added "Device Manager" To Right Click On This PC
+	* Added "Disk Management" To Right Click On This PC
+	* Added "Local Group Policy Editor" To Right Click On This PC
+	* Added "Programs & Features" To Right Click On This PC
+	* Added "Registry Editor" To Right Click On This PC
+	* Added "Services" To Right Click On This PC
+	* Added "Safe Mode Menu" To Right Click On This PC
+	* Added "Tools Menu" To Right Click On This PC
+	* Added "System Tools Menu" To Right Click On This PC
+	* Added "Turn Off Options" To Right Click On This PC
 	* Added "Take Ownership" To All Files
 	* Added "Block Access" To All Files
-	* Added "Change Icon" To Folder And Frives
+	* Added "Change Icon" To Folder And Drives
 	* Added "Copy Folder Content List" To All Files
 	* Added "Permanently Delete" To All Files
-	* Added "Add To Firewall" To Exe Files
-	* Added "Delete From Firewall" To Exe Files
+	* Added "Add To Firewall" To exe Files
+	* Added "Delete From Firewall" To exe Files
 	* Added "Disk Cleanup" To Drives
 	* Added "Windows Batch File" In New Context Menu
 	* Added "Windows Command Script" In New Context Menu
 	* Added "HTML Document" In New Context Menu
-	* Added "Powershell Script" In New Context Menu
+	* Added "PowerShell Script" In New Context Menu
 	* Added "Python File" In New Context Menu
 	* Added "Registry Entry" In New Context Menu
 	* Added "C/C++ File" In New Context Menu
-	* Added "Javascript" In New Context Menu
+	* Added "JavaScript" In New Context Menu
 	* Added "VBscript File" In New Context Menu
 	* Added "XML Document" In New Context Menu
 	* And So Much More That I Forgot
