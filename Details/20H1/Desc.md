@@ -15,7 +15,6 @@
 
 
 
-<center><h1><font color="red">Detailed Info</font></h1></center>
 
 
 &nbsp;
