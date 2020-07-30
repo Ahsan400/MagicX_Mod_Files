@@ -32,7 +32,7 @@
 &nbsp;
 &nbsp;
 
-## MagicX Toolbox Features (v2.0)[(Screenshot)](https://github.com/Ahsan400/MagicX_Mod_Files/blob/master/Details/Toolbox.md)
+## MagicX Toolbox Features (v2.0)[(Screenshot)](https://github.com/Ahsan400/MagicX_Mod_Files/blob/master/Details/20H1/Toolbox.md)
 	* Option for "After Update Tweaks" to apply after updating windows
 	* Option To Control UI Changes
 	* Option To Control Context Menu
