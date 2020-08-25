@@ -1,5 +1,5 @@
 SET "DL_REPO=https://github.com/Ahsan400/MagicX_Mod_Files/raw/master/Windows_10"
-SET "OPT_AMOUNT=19"
+SET "OPT_AMOUNT=20"
 SET "INP_MSG= --> Choose Apps to Download: "
 SET "CNTXT_OPT1=Adguard Premium v7.4.3247.0"
 SET "CNTXT_OPT2=AIMP Audio Player v4.70.2223"
