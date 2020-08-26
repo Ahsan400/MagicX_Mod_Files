@@ -374,10 +374,9 @@
 	* Windows Search
 	* Windows Defender
 	* Windows Updates
-&nbsp;
-&nbsp;
 
-## [N.B: Reason for not remove these programs and  how to remove them if don't need.](https://github.com/Ahsan400/MagicX_Mod_Files/blob/master/Details/Not_Removed_Reason.md)
+
+[N.B: Reason for not remove these programs and  how to remove them if don't need.](https://github.com/Ahsan400/MagicX_Mod_Files/blob/master/Details/Not_Removed_Reason.md)
 
 
 &nbsp;
