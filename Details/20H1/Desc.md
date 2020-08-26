@@ -374,4 +374,17 @@
 	* Windows Search
 	* Windows Defender
 	* Windows Updates
+
+
+&nbsp;
+&nbsp;
+
+>**Telegram Group:** [https://t.me/MagicXMod](https://t.me/MagicXMod)\
+>**Telegram:** [https://t.me/Ahsan400](https://t.me/Ahsan400)\
+>**Facebook:** [https://fb.me/Ahsan400](https://fb.me/Ahsan400)\
+>**Email:** [help.ahsan@gmail.com](mailto:help.ahsan@gmail.com)
+
+&nbsp;
+&nbsp;
+
 ## [N.B: Reason for not remove these programs and  how to remove them if don't need.](https://github.com/Ahsan400/MagicX_Mod_Files/blob/master/Details/Not_Removed_Reason.md)
