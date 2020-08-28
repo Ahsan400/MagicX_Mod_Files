@@ -1,7 +1,7 @@
 SET "DL_REPO=https://github.com/Ahsan400/MagicX_Mod_Files/raw/master/Windows_10"
 SET "OPT_AMOUNT=20"
 SET "INP_MSG= --> Choose Apps to Download: "
-SET "CNTXT_OPT1=Adguard Premium v7.4.3247.0"
+SET "CNTXT_OPT1=Adguard Premium v7.5.0.3371"
 SET "CNTXT_OPT2=AIMP Audio Player v4.70.2223"
 SET "CNTXT_OPT3=Betternet VPN v5.3.0.433"
 SET "CNTXT_OPT4=Chrome v84.0.4147.135"
@@ -23,7 +23,7 @@ SET "CNTXT_OPT19=GOM Player Plus V2.3.56.5320"
 SET "CNTXT_OPT20=IObit Uninstaller v9.6.0.3"
 
 
-SET "OPT_ADRS1=Download_Start_Apps_zip"
+SET "OPT_ADRS1=Download_Start_Apps_exe"
 SET "OPT_ADRS2=Download_Start_Apps_exe"
 SET "OPT_ADRS3=Download_Start_Apps_exe"
 SET "OPT_ADRS4=Download_Start_Apps_exe"
