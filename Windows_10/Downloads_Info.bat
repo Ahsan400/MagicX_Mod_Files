@@ -20,7 +20,7 @@ SET "CNTXT_OPT16=qBittorrent v4.2.5"
 SET "CNTXT_OPT17=qBittorrent Themes"
 SET "CNTXT_OPT18=TeamViewer v15.7.7.0"
 SET "CNTXT_OPT19=GOM Player Plus V2.3.56.5320"
-SET "CNTXT_OPT20=IObit Uninstaller v9.6.0.3"
+SET "CNTXT_OPT20=IObit Uninstaller v10.0.2.21"
 SET "CNTXT_OPT21=IObit Software Updater Pro v3.2.0.1751"
 
 
