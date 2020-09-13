@@ -1,5 +1,5 @@
 SET "DL_REPO=https://github.com/Ahsan400/MagicX_Mod_Files/raw/master/Windows_10"
-SET "OPT_AMOUNT=20"
+SET "OPT_AMOUNT=21"
 SET "INP_MSG= --> Choose Apps to Download: "
 SET "CNTXT_OPT1=Adguard Premium v7.5.0.3371"
 SET "CNTXT_OPT2=AIMP Audio Player v4.70.2227"
@@ -21,6 +21,8 @@ SET "CNTXT_OPT17=qBittorrent Themes"
 SET "CNTXT_OPT18=TeamViewer v15.7.7.0"
 SET "CNTXT_OPT19=GOM Player Plus V2.3.56.5320"
 SET "CNTXT_OPT20=IObit Uninstaller v9.6.0.3"
+SET "CNTXT_OPT21=IObit Software Updater Pro v3.2.0.1751"
+
 
 
 SET "OPT_ADRS1=Download_Start_Apps_exe"
@@ -43,3 +45,4 @@ SET "OPT_ADRS17=Download_Start_Mods"
 SET "OPT_ADRS18=Download_Start_Apps_exe"
 SET "OPT_ADRS19=Download_Start_Apps_zip"
 SET "OPT_ADRS20=Download_Start_Apps_exe"
+SET "OPT_ADRS21=Download_Start_Apps_zip"
